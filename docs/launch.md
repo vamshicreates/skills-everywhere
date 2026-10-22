@@ -1,20 +1,21 @@
 # Launch copy
 
-## X launch post
+## Published X launch post
 
-I built Skills Everywhere: one installation to share your local skills across Codex, Claude Code, Antigravity, Cursor & more.
+I built Skills Everywhere.
 
-Preserves originals. Handles conflicts. Auto-refresh on Mac.
+One installation to share local skills across Codex, Claude Code, Antigravity, Cursor & more.
 
-Open source + MIT:
-https://github.com/vamshicreates/skills-everywhere
+Keeps originals. Handles conflicts. Auto-refresh on Mac.
 
-## Follow-up post
+Code: https://github.com/vamshicreates/skills-everywhere
+How it works: https://www.vamshicreates.tech/blog/skills-everywhere
 
-The story behind it, how the links work, and where portability ends:
-https://www.vamshicreates.tech/blog/skills-everywhere
+Published: https://x.com/vamshicreates1/status/2113118337211503096
 
-Skill files can travel. MCP tools, accounts, and app-specific APIs still need setup in each agent.
+## Release
+
+https://github.com/vamshicreates/skills-everywhere/releases/tag/v0.1.0
 
 ## Article
 
